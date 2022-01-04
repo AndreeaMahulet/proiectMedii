@@ -1,0 +1,27 @@
+﻿@model IEnumerable<project.Models.LibraryViewModels.ManagerGroup>
+@{
+    ViewData["Title"] = "Experience in management Statistics";
+}
+<h2>Experience in management Statistics</h2>
+<table>
+    <tr>
+        <th>
+           Start Date
+        </th>
+        <th>
+            People in management
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.StartDate)
+    </td>
+    <td>
+        @item.EmployeeCount
+    </td>
+    
+</tr>
+    }
+</table>

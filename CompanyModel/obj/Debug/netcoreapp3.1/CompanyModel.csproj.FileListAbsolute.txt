@@ -1,0 +1,9 @@
+D:\MASTER\.NET2\proiect\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.csprojAssemblyReference.cache
+D:\MASTER\.NET2\proiect\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.AssemblyInfoInputs.cache
+D:\MASTER\.NET2\proiect\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.AssemblyInfo.cs
+D:\MASTER\.NET2\proiect\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.csproj.CoreCompileInputs.cache
+D:\MASTER\.NET2\proiect\CompanyModel\bin\Debug\netcoreapp3.1\CompanyModel.deps.json
+D:\MASTER\.NET2\proiect\CompanyModel\bin\Debug\netcoreapp3.1\CompanyModel.dll
+D:\MASTER\.NET2\proiect\CompanyModel\bin\Debug\netcoreapp3.1\CompanyModel.pdb
+D:\MASTER\.NET2\proiect\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.dll
+D:\MASTER\.NET2\proiect\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.pdb

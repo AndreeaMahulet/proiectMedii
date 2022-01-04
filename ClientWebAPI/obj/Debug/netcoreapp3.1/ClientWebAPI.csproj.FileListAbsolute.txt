@@ -1,0 +1,10 @@
+D:\MASTER\.NET2\proiect\ClientWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MASTER\.NET2\proiect\ClientWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MASTER\.NET2\proiect\ClientWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MASTER\.NET2\proiect\ClientWebAPI\bin\Debug\netcoreapp3.1\ClientWebAPI.exe
+D:\MASTER\.NET2\proiect\ClientWebAPI\obj\Debug\netcoreapp3.1\ClientWebAPI.csprojAssemblyReference.cache
+D:\MASTER\.NET2\proiect\ClientWebAPI\obj\Debug\netcoreapp3.1\ClientWebAPI.AssemblyInfoInputs.cache
+D:\MASTER\.NET2\proiect\ClientWebAPI\obj\Debug\netcoreapp3.1\ClientWebAPI.AssemblyInfo.cs
+D:\MASTER\.NET2\proiect\ClientWebAPI\obj\Debug\netcoreapp3.1\ClientWebAPI.RazorTargetAssemblyInfo.cache
+D:\MASTER\.NET2\proiect\ClientWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ClientWebAPI.StaticWebAssets.Manifest.cache
+D:\MASTER\.NET2\proiect\ClientWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ClientWebAPI.StaticWebAssets.xml
